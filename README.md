@@ -7,6 +7,12 @@ https://www.kaggle.com/c/airbnblala1
 Official Rank: #2
 Best Private Leaderboard RMSE: $51.27246
 
+
+# PCA Branch
+
+Goal: Implement Principal Component Analysis for certian features
+
+
 # Getting Started
 
 1. Use the "Data Cleaning.R" Script to inspect the data visualizaiton, cleaning and feature engineering process 
