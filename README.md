@@ -1,4 +1,4 @@
-# airbnb-predictive-modeling
+# Airbnb Rental Prices Predictive Modeling
 Predicting Airbnb NYC Rental Prices in New York City
 
 Kaggle Compeition: 
