@@ -1,6 +1,26 @@
 # airbnb-predictive-modeling
 Predicting Airbnb NYC Rental Prices in New York City
 
+Kaggle Compeition: 
+https://www.kaggle.com/c/airbnblala1
+
+Official Rank: #2
+Best Private Leaderboard RMSE: $51.27246
+
+# Getting Started
+
+1. Use the "Data Cleaning.R" Script to go through the data visualizaiton, cleaning and feature engineering process. 
+
+2. Use the "Data Modeling.R" Script to execute the H20 Gradient Boosting Model
+
+
+# Requirements
+
+Java JDK - https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+H2O Library - https://www.h2o.ai/
+
+# Summary
+
 “Which factors determine an AirBnb listing’s price?” was the question that kick started my journey into this competition. Tasked with creating the best predictive model, I had at my disposal 95 possible independent variables across 36,403 observations. 
 
 Exploratory Data Analysis
