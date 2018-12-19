@@ -9,7 +9,7 @@ Best Private Leaderboard RMSE: $51.27246
 
 # Getting Started
 
-1. Use the "Data Cleaning.R" Script to go through the data visualizaiton, cleaning and feature engineering process. 
+1. Use the "Data Cleaning.R" Script to inspect the data visualizaiton, cleaning and feature engineering process 
 
 2. Use the "Data Modeling.R" Script to execute the H20 Gradient Boosting Model
 
